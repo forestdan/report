@@ -4,3 +4,4 @@ line2
 This is hunk2
 this commit will be marked by tag-a
 br-a new line
+Add a new line of branch master after merge
